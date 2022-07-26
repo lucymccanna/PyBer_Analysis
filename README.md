@@ -13,6 +13,9 @@ Urban cities had the most rides, at 1625 total rides, while rural and suburban c
 The total fares by city per date are visualized in the following graph (Image 2):
 
   **[Image 2:]**
-  ![This is an image](
+  ![This is an image](https://github.com/lucymccanna/PyBer_Analysis/blob/main/Images/totalFareByCityByDate.jpg)
+  
+  
 ## Summary
+Although rural cities bring in the highest fare per ride, urban cities generate the most money in fares by the high volume of rides. In result, the average fare per driver in an urban city is $0.67 whereas the average fare in a rural city is $8.06. 
 
